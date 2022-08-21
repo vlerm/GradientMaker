@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  ColorPicker
+//  GradientMaker
 //
 //  Created by Вадим Лавор on 17.08.22.
 //
